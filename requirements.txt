@@ -1,0 +1,6 @@
+jupyterlab
+requests
+pandas
+pyarrow
+python-dotenv
+psycopg2-binary
